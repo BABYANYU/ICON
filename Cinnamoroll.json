@@ -1,0 +1,58 @@
+{
+  "name": "玉桂狗",
+  "description": "玉桂狗可爱卡通策略组图标，共 13 款 · BABYANYU",
+  "icons": [
+    {
+      "name": "玉桂狗·趴趴.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/01-cinnamoroll-rest.png"
+    },
+    {
+      "name": "玉桂狗·薄荷围巾.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/02-cinnamoroll-mint.png"
+    },
+    {
+      "name": "玉桂狗·奶黄贝雷帽.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/03-cinnamoroll-beret.png"
+    },
+    {
+      "name": "玉桂狗·云朵趴趴.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-11-cinnamoroll-cloud.png"
+    },
+    {
+      "name": "玉桂狗·薄荷毛线帽.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-12-cinnamoroll-mint-beanie.png"
+    },
+    {
+      "name": "玉桂狗·可可饼干.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-13-cinnamoroll-cocoa-baker.png"
+    },
+    {
+      "name": "玉桂狗·柠檬兜帽.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-14-cinnamoroll-lemon.png"
+    },
+    {
+      "name": "玉桂狗·海军领结.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-15-cinnamoroll-sailor.png"
+    },
+    {
+      "name": "玉桂狗·草莓抱枕.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-16-cinnamoroll-strawberry.png"
+    },
+    {
+      "name": "玉桂狗·紫色耳罩.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-17-cinnamoroll-lilac.png"
+    },
+    {
+      "name": "玉桂狗·雏菊眨眼.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-18-cinnamoroll-daisy.png"
+    },
+    {
+      "name": "玉桂狗·蓝莓报童帽.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-19-cinnamoroll-blueberry-cap.png"
+    },
+    {
+      "name": "玉桂狗·苹果贝雷帽.png",
+      "url": "https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/images/new-20-cinnamoroll-apple.png"
+    }
+  ]
+}
