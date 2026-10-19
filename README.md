@@ -6,3 +6,4 @@
 |---|---|---|
 | 玲娜贝儿 | 13 款 | [添加图标库](https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/LinaBell.json) |
 | 玉桂狗 | 13 款 | [添加图标库](https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/Cinnamoroll.json) |
+| 玲娜贝儿 GIF | 1 款 | [添加动态图标库](https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/LinaBell-GIF.json) |
