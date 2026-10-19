@@ -4,5 +4,5 @@
 
 | 图标库 | 数量 | 添加链接 |
 |---|---|---|
-| 玲娜贝儿 | 13 款 | [添加图标库](https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/LinaBell.json) |
+| 玲娜贝儿 | 33 款 | [添加图标库](https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/LinaBell.json) |
 | 玉桂狗 | 13 款 | [添加图标库](https://raw.githubusercontent.com/BABYANYU/ICON/refs/heads/main/Cinnamoroll.json) |
